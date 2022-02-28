@@ -7,19 +7,19 @@ sidebar:
   education: False # NO MODIFICAR
 
   # Profile information
-  name: My Full Name # Nombre completo
-  tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
+  name: Fernando Emanuel Martinez Montiel # Nombre completo
+  tagline: Ruby on Rails Web Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
   avatar: escudo.png # No modificar
 
   # Actualiza tus datos de contacto
-  email: name@brightcoders.com
-  phone:
+  email: femm15.mm@gmail.com
+  phone: 7713435094
   website: # No agregar http://
-  linkedin: brightcoders
-  github: brightcoders
+  linkedin: linkedin.com/in/fernando-emanuel-2251b9224 
+  github: https://github.com/femm34
   gitlab:
   bitbucket:
-  twitter: '@BrightCoders'
+  twitter: '@EmanuelMontie20'
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
