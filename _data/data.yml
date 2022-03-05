@@ -57,7 +57,7 @@ career-profile:
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
-  - degree: Prgramacion
+  - degree: Programming, still in progress
     university: CBTIS NO.5
     time: 2020 - current
     details: |
@@ -116,6 +116,9 @@ skills:
 
     - name: MySQL
       level: 20%
+
+    - name: Linux
+      level: 40%
 
 # NO MODIFICAR
 footer: >
